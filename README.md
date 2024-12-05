@@ -12,3 +12,8 @@
 1. two-pointer approach
 2. montonic stack
 3. sliding-window
+
+# structure
+## Array/String
+### two pointers + sliding-windows
+* purpose : reduce time complexity to O(n) O(1) space 
