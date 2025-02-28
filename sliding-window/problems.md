@@ -19,3 +19,11 @@
 比如这个问题情景： <br>
 1. each word check  : hash-table condition 
 2. check if valid substring: window expand 
+## Reorganize thinking
+1. how to check whether a substring is valid - purpose: 切入正确的思考路径和状态
+
+## bug reports and progress conclusion
+* 已经理清楚几个要点了，接下来直接去应用
+### c++ size_t type computation
+* 基础保持：signed integer and unsigned integer 
+ 
