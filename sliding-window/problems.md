@@ -24,6 +24,9 @@
 
 ## bug reports and progress conclusion
 * 已经理清楚几个要点了，接下来直接去应用
+* 状态变化： 循环中状态切换
 ### c++ size_t type computation
 * 基础保持：signed integer and unsigned integer 
+
+
  
