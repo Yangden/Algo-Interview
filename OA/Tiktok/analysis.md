@@ -4,12 +4,14 @@
 
 # coding
 ## number representation in programming language
-
+* Observe and prevent overflow & missing precision
+* 
 ## cpp basics
 1. knowledge structure & member function & basic concepts
 
 ## 逻辑问题 & corner case 
 
 ## unsolved：binary search 
+1. How to analyze the problem
 
 
