@@ -12,3 +12,7 @@
 ### Final iteration
 * several points : which varaibkes should be initialized in constructor or methods(reuse/share)
 * no little erros: locate: not target - prefix_sums. not begin - mid 
+
+## Leetcode 424
+* binary search feature: monotonic property
+* how to find the motonic property: 
