@@ -15,3 +15,12 @@
 1. How to analyze the problem
 
 
+# 26 NG OA
+1. 逻辑错误： sliding-window 漏洞
+2. 时间限制（22 minutes)
+3. window move and validation order 
+4. 总结： 扎实review彻底掌握
+
+
+
+
