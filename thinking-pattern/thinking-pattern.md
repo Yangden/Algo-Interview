@@ -11,3 +11,6 @@
 * start from brute-force: **iterate through all substring -> if can be valid ? - simplify the problem - frequency map**
 * what about next step: derive search problem. 
 * design binary search combined with sliding-window to reduce computation. 
+
+# leetcode 97
+* wrong thinking direction: build + brute-force + recursive problem structure
