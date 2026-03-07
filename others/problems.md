@@ -19,3 +19,15 @@
 1. in-place solution? 
 
 
+
+# leetcode 743 network delay time 
+* 怎样控制行动复习间隔
+* 彻底吸收
+## possible notes
+1. how to reduce time complexity, why origiannly i write an time-consumed algorithm
+2. what is the adjusted approach 
+
+# leetcode 136 - XOR bitwise operation
+* knowledge: 
+
+
