@@ -14,3 +14,5 @@
 
 # leetcode 97
 * wrong thinking direction: build + brute-force + recursive problem structure
+
+# Leetcode 1039
