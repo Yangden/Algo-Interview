@@ -16,3 +16,14 @@
 * wrong thinking direction: build + brute-force + recursive problem structure
 
 # Leetcode 1039
+
+
+# Leetcode 785 
+* step1: definition - key information of the problem. undirected graph - not-connected graph - bipartitie : [A, B] node a<-> node b 
+* step2: clear out the conclusion : a <-> b : two different sets -> start from a "minimum" state : neighbor -> two different representations. 
+* step3 : basic algorithm stategy : DFS/BFS 
+* step4 : back to not-connected graph. Retrieve those un-explored nodes, repeat the process. 
+
+# Leetcde 29 divide two integers 
+* Exponential search 
+* memorization 
