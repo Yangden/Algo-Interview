@@ -2,5 +2,11 @@
 * familiar with DFS on **grids** and understand basics of DFS on graph 
 * Understand TLE and test-case failures 
 
+# leetcode 1463
+1. define a state
+2. search 
+3. dependency 
+4. structure 
+
 
 
