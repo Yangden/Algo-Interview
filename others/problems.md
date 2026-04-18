@@ -31,3 +31,9 @@
 * knowledge: 
 
 
+# Leetcode 68
+* Make the feedback more specific and clear on notes
+* Firstly, can I set the right path to th solution immediately?
+
+
+
