@@ -3,4 +3,7 @@
 # min-heap versus max-heap
 * default: less -> MAXheap. greater : MINHeap
 
+# standard function : swap 
+
+
 
