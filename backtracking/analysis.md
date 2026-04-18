@@ -10,4 +10,12 @@
 
 ## Leetcode : N-Queen problem
 
+# Review 
+* Calculate time complexity : Do not confuse solutions to different problems(惯性思维)：逻辑思考的起点优先
+* how to record key part thinking to the solution : use a status list to represent is enough. 
+
+
+
+
+
 
