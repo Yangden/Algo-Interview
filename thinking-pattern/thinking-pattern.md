@@ -24,6 +24,13 @@
 * step3 : basic algorithm stategy : DFS/BFS 
 * step4 : back to not-connected graph. Retrieve those un-explored nodes, repeat the process. 
 
+## 补充
+* bfs and dfs all work well. 
+
 # Leetcde 29 divide two integers 
 * Exponential search 
 * memorization 
+
+# dp proble conclusion 
+* Problem dependency 
+* transition of state - minimal step 
