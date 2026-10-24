@@ -17,3 +17,11 @@
 ## Array/String
 ### two pointers + sliding-windows
 * purpose : reduce time complexity to O(n) O(1) space 
+
+# Problem modeling 
+- example: leetcode-World Ladder: When to model to graph-BFS 
+    - focus on the state and transition 
+
+# core-thinking
+1. idenitfy performance bottleneck 
+2. check whether the assumption held in pre-optimized approach still hold in optimized one. 
